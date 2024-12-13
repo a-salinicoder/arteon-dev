@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1049273107890",
+    "project_id": "arteon-pulse",
+    "storage_bucket": "arteon-pulse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049273107890:android:80105aad2bcdb1afb210ab",
+        "android_client_info": {
+          "package_name": "com.mycompany.arteon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049273107890-e8ht37uodgi44lmm4v0ggah58b2pkua9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.arteon",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1049273107890-g304e8r8c3tscev9gfbtmg2mcsps6chi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYhYoFSLW70j7-ngzhfvN9-YqRtHINAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049273107890-g304e8r8c3tscev9gfbtmg2mcsps6chi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049273107890-88q13l58dm2bevdnrqk7hvh230buse7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.arteon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
