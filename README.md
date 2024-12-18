@@ -73,7 +73,7 @@ For queries or suggestions, reach out to:
 
 - **Email**: [a.salinicoder@gmail.com](mailto:a.salinicoder@gmail.com)
 - **Website**: [www.arteon.com](http://www.arteon.com) - In Progress 
-- **Temporary Website**: [[[www.arteon.com](https://arteon-pulse.flutterflow.app/)](https://arteon-pulse.flutterflow.app/)](http://www.arteon.com) 
+- **Temporary Website**: [[https://arteon-pulse.flutterflow.app/](https://arteon-pulse.flutterflow.app/)]
 
 ---
 
